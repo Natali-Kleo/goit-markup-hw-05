@@ -673,7 +673,7 @@ header {
 }
                                     /* form */
 .form-container {
-    margin-bottom: 16px;
+    margin-bottom: 8px;
 }
                                     /* text name */
 .modal-label {
@@ -718,6 +718,9 @@ header {
     fill: #4d5ae5;
 }
 
+.form-container-coment {
+    margin-bottom: 16px;
+}
 .modal-text {
     width: 100%;
     height: 120px;
